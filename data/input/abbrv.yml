@@ -1,0 +1,300 @@
+abteilung:
+  abbrv:
+    - abtheilung
+    - abt
+  en: department
+
+annee:
+  abbrv:
+    - ann
+    - anno
+    - ano
+  en: year
+
+appendix:
+  abbrv:
+    - appendices
+
+argang:
+  abbrv:
+    - arg
+  en: volume
+
+auflage:
+  abbrv:
+    - aufl
+  en: edition
+
+ausgabe:
+  abbrv:
+    - aus
+  en: issue
+
+band:
+  abbrv:
+    - bd
+  en: volume
+
+beiheft:
+  abbrv:
+    - beih
+  en: supplement
+
+beilage:
+  abbrv:
+    - beil
+  en: insert
+
+bind:
+  abbrv:
+    - bd
+  en: volume
+
+book:
+  abbrv:
+    - bk
+
+broj:
+  abbrv:
+    - br
+  en: number
+
+bulletin:
+  abbrv:
+    - bull
+
+cilt:
+  abbrv:
+    - cil
+  en: volume
+
+cislo:
+  abbrv:
+    - cis
+  en: number
+
+collection:
+  abbrv:
+    - coll
+    - collectio
+
+contents:
+  abbrv: []
+
+decade:
+  abbrv:
+    - dec
+
+deel:
+  abbrv:
+    - dl
+  en: part
+
+edition:
+  abbrv:
+    - ed
+
+fascicule:
+  abbrv:
+    - fas
+    - fasc
+  en: fascicle
+
+feuille:
+  abbrv:
+    - feu
+  en: leaflet
+
+fuzet:
+  abbrv:
+    - fuz
+  en: booklet
+
+hafte:
+  abbrv: []
+  en: weekly
+
+heft:
+  abbrv:
+    - hft
+  en: issue
+
+index:
+  abbrv: []
+
+issue:
+  abbrv:
+    - is
+    - iss
+
+jaarboek:
+  abbrv:
+    - jaarb
+  en: year
+
+jaargang:
+  abbrv:
+    - jaarg
+  en: year
+
+jahreshefte:
+  abbrv:
+    - jahresbericht
+    - jahr
+    - jahrbuch
+  en: year
+
+jahrgang:
+  abbrv:
+    - jahrg
+  en: year
+
+knjiga:
+  abbrv:
+    - knj
+  en: book
+
+kotet:
+  abbrv:
+    - kot
+  en: volume
+
+lieferung:
+  abbrv:
+    - lfg
+    - lief
+  en: part
+
+livraison:
+  abbrv:
+    - liv
+  en: issue
+
+memoir:
+  abbrv:
+    - mem
+
+new series:
+  abbrv:
+    - ns
+    - nuovaserie
+    - n.f
+    - neuefolge
+
+number:
+  abbrv:
+    - 'no'
+    - nr
+    - numbers
+    - nos
+    - numero
+    - num
+    - nummer
+    - numer
+
+page:
+  abbrv:
+    - p
+    - pp
+    - pg
+
+pages:
+  abbrv:
+    - pp
+    
+paper:
+  abbrv: []
+
+part:
+  abbrv:
+    - pt
+    - parts
+    - pars
+
+quarter:
+  abbrv:
+    - qtr
+
+report:
+  abbrv: []
+
+rocnik:
+  abbrv:
+    - roc
+  en: volume
+
+rocznik:
+  abbrv:
+    - rocz
+  en: volume
+
+section:
+  abbrv:
+    - sec
+    - tomus
+
+series:
+  abbrv:
+    - raekke
+    - fol
+    - ser
+    - folge
+    - sér
+
+session:
+  abbrv: []
+
+sheet:
+  abbrv:
+    - sh
+
+skrifter:
+  abbrv:
+    - skr
+  en: work
+
+special:
+  abbrv: []
+
+supplement:
+  abbrv:
+    - suppl
+    - supl
+
+svazek:
+  abbrv:
+    - sv
+  en: volume
+
+teil:
+  abbrv: []
+  en: part
+
+theil:
+  abbrv:
+    - thl
+  en: part
+
+tome:
+  abbrv:
+    - tom
+    - t
+  en: volume
+
+viti:
+  abbrv:
+    - vt
+  en: volume
+
+volume:
+  abbrv:
+    - vol
+    - v
+
+vyp:
+  abbrv: []
+  en: issue
+
+year:
+  abbrv:
+    - yr

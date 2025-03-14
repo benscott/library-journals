@@ -1,3 +1,9 @@
+# Custom
+
+data/assets/*
+data/output/*
+data/processing/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
